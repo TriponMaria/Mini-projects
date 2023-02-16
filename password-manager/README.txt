@@ -1,6 +1,6 @@
 * Building a Password Manager *
 
--> We are going to use this program to store and generate passwords
+-> We are going to use this program to store (into a TXT file) and generate passwords
 
 For example, if I wanted to create an account on a particular website, then 
 I enter the name of the website, my email is already populated and then all I have to do is to either come up with a strong password or I can use the builtin generate password to just generate for me a very complex, very long password with all the required numbers and symbols and all of that. Once I've done with that, then I can click "Add" and I get a popup asking me if this is okay and if that all looks good then I click "Yes" and that data gets added to a text file which I have on my computer.
