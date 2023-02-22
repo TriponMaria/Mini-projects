@@ -11,7 +11,7 @@ parameters = {
     "lat": latitude,
     "lon": longitude,
     "appid": api_key,
-    # "exclude": "current,minutely,daily"
+    "exclude": "current,minutely,daily"
 }
 response = requests.get(url="https://api.openweathermap.org/data/3.0/onecall", params=parameters)
 print(response.status_code)
