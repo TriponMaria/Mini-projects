@@ -6,7 +6,7 @@ import requests
 ACCEPT_LANGUAGE = os.environ['ACCEPT_LANGUAGE']
 USER_AGENT = os.environ['USER_AGENT']
 
-webpage = "https://www.amazon.com/Yves-Saint-Laurent-Collections-1962-2002/dp/0300243650/ref=zg_bs_1862_sccl_38/143-9746091-4817013?psc=1"
+webpage = "link to your product"
 headers = {
     "Accept-Language": ACCEPT_LANGUAGE,
     "User-Agent": USER_AGENT
