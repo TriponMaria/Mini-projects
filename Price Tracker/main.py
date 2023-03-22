@@ -22,7 +22,7 @@ product_name = soup.find(id="productTitle").getText()
 notification = Notifier()
 
 if price < 45:
-    notification.send_email(product_name, price, webpage, "tripon.maria06@gmail.com")
+    notification.send_email(product_name, price, webpage, "your_email")
 
 
 
