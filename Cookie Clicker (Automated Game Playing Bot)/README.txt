@@ -1,0 +1,2 @@
+1. I created a bot using Selenium and Python to click on the cookie as fast as possible.
+2. Every 5 seconds, I checked the right-hand pane to see which upgrades are affordable and purchase the most expensive one. I check how much money (cookies) I have against the price of each upgrade.
