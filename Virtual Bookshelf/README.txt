@@ -1,0 +1,3 @@
+I am able to add new books via the /add route. Once a book is successfully added to the database, it redirect me to the home page.
+I add a Edit Rating Anchor Tag to each book. When the button is pressed, it take the user to an Edit Rating page where I can enter a new rating for that book. Then when I click "Change Rating" it take me back to the home page and the new rating is displayed next to the book.
+I add a Delete Anchor Tag to each book from the database and redirect back to home page
